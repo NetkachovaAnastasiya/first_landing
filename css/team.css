@@ -1,0 +1,62 @@
+.team {
+    background-image: url(https://colorlib.com/illdy/wp-content/themes/illdy/layout/images/front-page/pattern.png);
+    padding-top: 40px;
+}
+
+.team__section {
+    text-align: center;
+}
+
+.team__wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.team__section-title {
+    margin: 12px 0 5px 0;
+    color: #5e5e5e;
+    font-size: 15px;
+}
+
+.team__section-info {
+    text-align: center;
+    color: #8c9597;
+}
+
+.team__title {
+    color: #545454;
+    text-align: center;
+}
+
+.team__info {
+    color: #8c9597;
+    text-align: center;
+}
+
+.team__section-photo {
+    border-radius: 50%;
+    justify-content: space-between;
+}
+
+.team__members-icons {
+    padding: 5px;
+}
+
+.team__section-title--web-designer,
+.team__members-icons--web-designer {
+    color: rgb(241, 139, 109);
+}
+
+.team__section-title--seo,
+.team__members-icons--seo {
+    color: rgb(241, 210, 4);
+}
+
+.team__section-title--developer,
+.team__members-icons--developer {
+    color: rgb(106, 77, 138);
+}
+
+.fab {
+    padding: 5px;
+}

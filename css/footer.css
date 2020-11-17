@@ -1,0 +1,40 @@
+.footer {
+    background-color: #292825;
+}
+
+.footer__top-list,
+.footer__top-link {
+    color: #8c979e;
+}
+
+.footer__top-footer-blocks {
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer__top-title {
+    color: #ffffff;
+    font-size: 23px;
+    line-height: 32px;
+    font-weight: 700;
+}
+
+.footer__top-link {
+    font-size: 15px;
+    line-height: 32px;
+}
+
+.footer__bottom {
+    padding: 30px 0;
+    text-align: center;
+    background-color: #242320;
+    color: #8c979e;
+}
+
+.copyright {
+    color: #ffffff;
+}
+
+.footer__top-footer-blocks {
+    padding: 20px 400px 20px 0;
+}
