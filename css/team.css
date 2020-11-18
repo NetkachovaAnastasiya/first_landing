@@ -60,3 +60,20 @@
 .fab {
     padding: 5px;
 }
+
+@media (max-width: 992px) {
+    .team__wrapper {
+        display: block;
+    }
+}
+
+@media (max-width: 768px) {
+    .team__title {
+        font-size: 30px;
+        line-height: 35px;
+        margin-top: 0;
+    }
+    .team__section {
+        margin-bottom: 20px;
+    }
+}
